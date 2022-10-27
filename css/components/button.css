@@ -1,0 +1,8 @@
+ a {
+    text-decoration: none;
+    }
+    a:any-link {
+      color: -webkit-link;
+      text-decoration-line: underline;
+      cursor: auto;
+      }
